@@ -1,8 +1,8 @@
 # MTN MoMo API with python django
-#### Refer to documentation from https://momodeveloper.mtn.com/ for more details.
+#### Refer to the documentation from https://momodeveloper.mtn.com/ for more details.
 
 
-#### The provided codes are test on Sandbox (not to be used in production). The codes must be executed in the following order:
+#### The provided codes have been tested on Sandbox (not  in production). The codes must be executed in the following order:
 
 
 ##### 1. sign up/login to https://momodeveloper.mtn.com/ <br/>
